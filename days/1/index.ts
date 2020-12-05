@@ -1,10 +1,8 @@
-import { getNUmbersFromLines } from "../../utils/getData";
+import { getNumbersFromLines } from "../../utils/getData";
+
+const data = getNumbersFromLines(1);
 
 const run = async () => {
-  const data = getNUmbersFromLines("./days/1/data.txt");
-
-  // console.log(data);
-
   let addResult: number = 0;
 
   for (let i = 0, l = data.length; i < l; i++) {
@@ -20,10 +18,6 @@ const run = async () => {
 run();
 
 const runExtra = async () => {
-  const data = getNUmbersFromLines("./days/1/data.txt");
-
-  // console.log(data);
-
   let addResult: number = 0;
 
   for (let i = 0, l = data.length; i < l; i++) {

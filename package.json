@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "1": "npx ts-node --skip-project ./days/1/"
+    "1": "npx ts-node --skip-project ./days/1/",
+    "2": "npx ts-node --skip-project ./days/2/"
   },
   "author": "",
   "license": "ISC",
