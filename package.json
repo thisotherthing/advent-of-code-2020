@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "1": "npx ts-node --skip-project ./days/1/",
-    "2": "npx ts-node --skip-project ./days/2/"
+    "2": "npx ts-node --skip-project ./days/2/",
+    "3": "npx ts-node --skip-project ./days/3/"
   },
   "author": "",
   "license": "ISC",
