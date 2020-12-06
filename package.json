@@ -6,7 +6,8 @@
   "scripts": {
     "1": "npx ts-node --skip-project ./days/1/",
     "2": "npx ts-node --skip-project ./days/2/",
-    "3": "npx ts-node --skip-project ./days/3/"
+    "3": "npx ts-node --skip-project ./days/3/",
+    "4": "npx ts-node --skip-project ./days/4/"
   },
   "author": "",
   "license": "ISC",
