@@ -12,7 +12,8 @@
     "6": "npx ts-node --skip-project ./days/6/",
     "7": "npx ts-node --skip-project ./days/7/",
     "8": "npx ts-node --skip-project ./days/8/",
-    "9": "npx ts-node --skip-project ./days/9/"
+    "9": "npx ts-node --skip-project ./days/9/",
+    "10": "npx ts-node --skip-project ./days/10/"
   },
   "author": "",
   "license": "ISC",
